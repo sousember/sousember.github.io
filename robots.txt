@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sousember.github.io/sousember.txt.gz
+Sitemap: https://sousember.github.io/app/sousember.txt.gz
+Sitemap: https://sousember.github.io/assets/sousember.txt.gz
+Sitemap: https://sousember.github.io/css/sousember.txt.gz
+Sitemap: https://sousember.github.io/includes/sousember.txt.gz
+Sitemap: https://sousember.github.io/item/sousember.txt.gz
+Sitemap: https://sousember.github.io/src/sousember.txt.gz
